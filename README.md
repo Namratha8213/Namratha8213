@@ -1,3 +1,4 @@
+<h1 align="center" >Hi there 👋</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -12,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-Hi there 👋
+
 
 <!--
 **Namratha8213/Namratha8213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
