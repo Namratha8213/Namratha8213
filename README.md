@@ -22,6 +22,7 @@
 :woman_technologist: About Me:
 
 I'm Namratha, a passionate learner interested in machine learning, probability, and calculus.
+
 - 🤖 Machine Learning Enthusiast
 - 📊 Math Wizard
 - 💻 Coding Connoisseur
@@ -49,11 +50,13 @@ I'm Namratha, a passionate learner interested in machine learning, probability, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/>&nbsp; 
 </div>
+
 <div>
 :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Namratha8213&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
+
 <div>
 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namratha8213&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
