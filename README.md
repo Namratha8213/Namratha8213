@@ -34,7 +34,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+<img src="[https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg](https://www.jetbrains.com/pycharm/img/pycharm-logo.svg)" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
