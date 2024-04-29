@@ -2,7 +2,7 @@
   <div>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdtOTBoZjE3aWNkdG56cmQ4YnNnZG9zM2dtdm81MmJwYW16MDRtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gssNZ4EF6c8Simk/giphy.gif" style="width: 200px; height: auto;"/>
   </div>
-  <div style="margin-left: 20px;">
+  <div style="display:flex; flex-direction:column;">
     <div align="center" id="badges">
       <a href="https://www.linkedin.com/in/namratha-m-82a653246/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
