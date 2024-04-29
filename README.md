@@ -57,10 +57,10 @@ I'm Namratha, a passionate learner interested in machine learning, probability, 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Namratha8213&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
-<div>
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namratha8213&layout=compact)](https://github.com/Namratha8213)
-
+<div style="background-color: #333; padding: 10px; border: 2px solid #bada55;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namratha8213&layout=compact&theme=dark" alt="Top Languages" />
 </div>
+
 
