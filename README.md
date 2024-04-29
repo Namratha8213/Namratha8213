@@ -1,19 +1,23 @@
-<div >
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdtOTBoZjE3aWNkdG56cmQ4YnNnZG9zM2dtdm81MmJwYW16MDRtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gssNZ4EF6c8Simk/giphy.gif"/>
-<div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/namratha-m-82a653246/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCApeWk8XjwGFj3-ugN-LXuA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdtOTBoZjE3aWNkdG56cmQ4YnNnZG9zM2dtdm81MmJwYW16MDRtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gssNZ4EF6c8Simk/giphy.gif" width="300" height="300" />
+  </div>
+  <div style="flex: 1;">
+    <div align="center" id="badges">
+      <a href="https://www.linkedin.com/in/namratha-m-82a653246/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://www.youtube.com/channel/UCApeWk8XjwGFj3-ugN-LXuA">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      </a>
+      <a href="your-twitter-URL">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      </a>
+    </div>
+    <h1 align="center">Hi there 👋</h1>
+  </div>
 </div>
 
-<h1 align="center">Hi there 👋</h1>
-</div>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ3MTVoYzI5b2huNmc0ZGVrNzRkajVpdzI1ZmtiNnNicGpucnRkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif"/>
 </div>
