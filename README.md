@@ -14,8 +14,8 @@
   </a>
 </div>
 <h1 align="center" >Hi there 👋</h1>
-<div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRnMjQ2NzN4d2dnYXFnc3dyenNvcmMzcWs2ZGFncnFiMThjbmhkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" align="center"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRnMjQ2NzN4d2dnYXFnc3dyenNvcmMzcWs2ZGFncnFiMThjbmhkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" />
 </div>
 
 
