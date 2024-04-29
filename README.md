@@ -55,6 +55,18 @@ I'm Namratha, a passionate learner interested in Machine learning, Probability, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/>&nbsp; 
 </div>
+<div style="position: relative;">
+  <hr style="border: none; height: 2px; background-color: #333;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 2px; background-color: #bada55; animation: slide 2s infinite;"></div>
+</div>
+
+<style>
+  @keyframes slide {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
+  }
+</style>
+
 <div>
 :fire: My Stats :
 <div align="center">
