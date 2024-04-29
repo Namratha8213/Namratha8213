@@ -59,5 +59,5 @@ I'm Namratha, a passionate learner interested in machine learning, probability, 
 
 <div>
 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namratha8213&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namratha8213)](https://github.com/anuraghazra/github-readme-stats)
 </div>
