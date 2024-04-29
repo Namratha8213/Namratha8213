@@ -51,6 +51,5 @@ I'm Namratha, a passionate learner interested in machine learning, probability, 
 </div>
 
 :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Namratha8213&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Namratha8213&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
