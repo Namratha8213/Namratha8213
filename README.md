@@ -59,8 +59,6 @@ I'm Namratha, a passionate learner interested in machine learning, probability, 
 
 ### Most Used Languages
 
-<div style="background-color: #333; padding: 10px; border: 2px solid #bada55;">
+<div style="background-color: #333; padding: 20px; border: 2px solid #bada55;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namratha8213&layout=compact&theme=dark" alt="Top Languages" />
 </div>
-
-
