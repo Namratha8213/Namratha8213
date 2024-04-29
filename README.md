@@ -36,6 +36,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask"
+   width="40" height="40"/>&nbsp; 
 </div>
 
 
