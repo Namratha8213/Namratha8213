@@ -21,12 +21,17 @@
 
 :woman_technologist: About Me:
 
-I'm Namratha, a passionate learner interested in machine learning, probability, and calculus.
+I'm Namratha, a passionate learner interested in Machine learning, Probability, and Calculus.
 
 - 🤖 Machine Learning Enthusiast
 - 📊 Math Wizard
 - 💻 Coding Connoisseur
-
+  
+🌎 Communities:
+- Member of Finite Loop Club,NMAMIT
+- Social Media Co-cordinator in Vista,Branch Association Information Science NMAM Institute of Technology
+- Executive member of Computer Society of India(CSI) Student Chapter,2022-23
+  
 :hammer_and_wrench: Languages and Tools:
 
 <div>
