@@ -55,7 +55,7 @@ I'm Namratha, a passionate learner interested in Machine learning, Probability, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/>&nbsp; 
 </div>
-![Horizontal Line Animation](https://example.com/your-animation.gif)
+![Horizontal Line Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlxaTl5dnVtbXJybzM0bHNsYnhkY2M0dWhwemhqdmN2bmpmamJvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12jwC6juDxXH8c/giphy.gif)
 <div>
 :fire: My Stats :
 <div align="center">
