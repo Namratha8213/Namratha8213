@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRnMjQ2NzN4d2dnYXFnc3dyenNvcmMzcWs2ZGFncnFiMThjbmhkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"/>
+</div>
 
 
 <!--
