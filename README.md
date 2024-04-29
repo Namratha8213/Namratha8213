@@ -21,7 +21,10 @@
 
 :woman_technologist: About Me:
 
-I'm Namratha, a passionate learner interested in machine learning, mathematics, probability, and calculus.
+I'm Namratha, a passionate learner interested in machine learning, probability, and calculus.
+- 🤖 Machine Learning Enthusiast
+- 📊 Math Wizard
+- 💻 Coding Connoisseur
 
 :hammer_and_wrench: Languages and Tools:
 
