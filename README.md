@@ -28,7 +28,7 @@ I'm Namratha, a passionate learner interested in Machine learning, Probability, 
 - 💻 Coding Connoisseur
   
 🌎 Communities:
-- Member @Finite Loop Club,NMAMIT
+- Junior Developer @Finite Loop Club,NMAMIT
 - Social Media Co-cordinator @Vista,Branch Association Information Science NMAM Institute of Technology
 - Executive member @Computer Society of India(CSI) Student Chapter,2022-23
   
