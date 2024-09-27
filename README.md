@@ -28,7 +28,8 @@ I'm Namratha, a passionate learner interested in Machine learning, Probability, 
 - 💻 Coding Connoisseur
   
 🌎 Communities:
-- AIML Domain Co-Head @Computer Society of India(CSI) Student Chapter,2022-23
+- Co-chairperson @Association Of Computing Machinery(ACM) Student Chapter,2024-25
+- AIML Domain Co-Head @Computer Society of India(CSI) Student Chapter,2024-25
 - Junior Developer @Finite Loop Club,NMAMIT
 
 :hammer_and_wrench: Languages and Tools:
