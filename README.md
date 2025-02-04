@@ -63,7 +63,10 @@ I'm Namratha, a passionate learner interested in Machine learning, Probability, 
 :fire: My Stats :
 <div align="center">
   <br/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Namratha8213&theme=dark&hide_border=true" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=Namratha8213&theme=dark&hide_border=true" alt="GitHub Streak" />
+</a>
+
 </div>
 </div>
 
