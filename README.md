@@ -77,5 +77,3 @@ I'm Namratha, a passionate learner interested in Machine learning, Probability, 
   <img src="https://github-readme-stats.vercel.app/api?username=Namratha8213&show_icons=true&theme=dark" alt="Github Status" />
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Namratha8213&show_icons=true&theme=dark)
-
