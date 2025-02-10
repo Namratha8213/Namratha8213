@@ -67,14 +67,14 @@ I'm Namratha, a passionate learner interested in Machine learning, Probability, 
 </div>
 </div>
 </div>
-<a href="https://git.io/streak-stats">
+<!-- <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Namratha8213&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </a>
 
 <div style="background-color: #333; padding: 20px; border: 2px solid #bada55;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Namratha8213&show_icons=true&theme=dark" alt="Github Status" />
-</div>
+</div> -->
 
 <div style="background-color: #333; padding: 20px; border: 2px solid #bada55;" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namratha8213&layout=compact&theme=dark" alt="Top Languages" />
