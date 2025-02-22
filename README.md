@@ -24,8 +24,6 @@
 I'm Namratha, a passionate learner interested in Machine learning, Probability, and Calculus.
 
 - 🤖 Machine Learning Enthusiast
-- 📊 Math Wizard
-- 💻 Coding Connoisseur
   
 🌎 Communities:
 - Co-chairperson @Association Of Computing Machinery(ACM) Student Chapter,2024-25
