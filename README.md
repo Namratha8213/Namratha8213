@@ -75,7 +75,7 @@ I'm Namratha, a passionate learner interested in Machine learning, Probability, 
 </div>
 
 </div>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Namratha8213&theme=dark&hide_border=true&count_private=true" alt="GitHub Streak" />
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Namratha8213&theme=dark&hide_border=true&count_private=true" alt="GitHub Streak" /> -->
 
 
 
