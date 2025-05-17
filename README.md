@@ -12,8 +12,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<h1 align="center">Hi there 👋</h1>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ3MTVoYzI5b2huNmc0ZGVrNzRkajVpdzI1ZmtiNnNicGpucnRkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif"/>
@@ -59,6 +60,7 @@ I'm Namratha, a passionate learner interested in Machine learning, Probability, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
 </div>
 <div>
+  <br/><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 :fire: My Stats :
   <div align="center">
   
