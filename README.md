@@ -31,9 +31,7 @@ I'm Namratha, a passionate learner interested in Machine learning, Probability, 
 - Vice chairperson @Association Of Computing Machinery(ACM) Student Chapter,2024-25
 - AIML Domain Co-Head @Computer Society of India(CSI) Student Chapter,2024-25
 - Junior Developer @Finite Loop Club,NMAMIT
-
-:hammer_and_wrench: Languages and Tools:
-
+<p>:hammer_and_wrench: Languages and Tools:</p>
 <div align="center" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
