@@ -23,7 +23,7 @@
 I'm Namratha, a passionate learner interested in Machine learning, Probability, and Calculus.
 
 - Machine Learning Enthusiast
-- Currently, exploring Cloud Computiong 
+- Currently, exploring Cloud Computing 
   
 🌎 Communities:
 - Vice chairperson @Association Of Computing Machinery(ACM) Student Chapter,2024-25
